@@ -10,6 +10,7 @@
 Este é um projeto desenvolvido durante o curso **Geração Tech 3.0**, uma iniciativa da **Geração Tech** para capacitar desenvolvedores em tecnologias modernas. O projeto consiste em uma aplicação React simples, criada com Vite, focando em conceitos fundamentais de React, CSS e estrutura de projeto.
 
 ### 🎯 Objetivos de Aprendizado
+
 - ✅ Configuração inicial com Vite
 - ✅ Componentes React funcionais
 - ✅ Estilização com CSS moderno
@@ -27,23 +28,27 @@ Este é um projeto desenvolvido durante o curso **Geração Tech 3.0**, uma inic
 ## 🚀 Como Executar
 
 ### Pré-requisitos
+
 - Node.js (versão 16 ou superior)
 - npm ou yarn
 
 ### Instalação e Execução
 
 1. **Clone o repositório**
+
    ```bash
    git clone https://github.com/luarafael/React-geracaoTech3.git
    cd React-geracaoTech3
    ```
 
 2. **Instale as dependências**
+
    ```bash
    npm install
    ```
 
 3. **Execute o projeto em modo desenvolvimento**
+
    ```bash
    npm run dev
    ```
@@ -78,6 +83,7 @@ primeiro-react-gt/
 ## 📚 Aprendizados
 
 Durante o desenvolvimento deste projeto, foram aplicados conceitos como:
+
 - Componentização em React
 - Props e estado
 - CSS Flexbox para layout
@@ -95,3 +101,14 @@ Este projeto é educacional e faz parte do curso Geração Tech 3.0.
 ---
 
 **Desenvolvido com ❤️ durante o Geração Tech 3.0**
+
+## 👨‍💻 Autor
+
+**Luã rafael**  
+Estudante da Digital College - Turma FS-07  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-blue)](https://www.linkedin.com/in/lu%C3%A3-rafael-1434213a3/)  
+[![GitHub](https://img.shields.io/badge/GitHub-Seguir-black)](https://github.com/luarafael)
+
+---
+
+⭐ Se você achar este projeto útil ou inspirador, por favor dê uma estrela! Isso ajuda a mostrar meu trabalho para potenciais empregadores e a comunidade de desenvolvedores.
