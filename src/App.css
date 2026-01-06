@@ -1,0 +1,54 @@
+body,
+html {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  width: 100%;
+  background-color: lightgray;
+}
+
+.conteiner-principal {
+  background-color: white;
+}
+
+.card-boas-vindas {
+  background-color: #fff;
+  color: white;
+  padding: 40px;
+  border-radius: 12px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  max-width: 400px;
+  width: 90%;
+}
+
+h1 {
+  color: #61dafb;
+  margin-bottom: 20px;
+}
+p {
+  color: #555;
+  line-height: 1.6;
+}
+
+.button-entrar {
+  margin-top: 25px;
+  padding: 12px 30px;
+  background-color: #61dafb;
+  border: none;
+  border-radius: 5px;
+  color: #282c34;
+  font-weight: bold;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.button-entrar:hover {
+  background-color: #4fa8c7;
+}
